@@ -25,7 +25,7 @@
         android:layout_height="30dp"
         android:gravity="left"
         android:textSize="20sp"
-        android:text="NIM : 10116299"
+        android:text="NIM : 10117247"
         android:layout_marginTop="30dp"
         android:textColor="#000000" />
 
